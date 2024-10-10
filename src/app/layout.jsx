@@ -18,9 +18,9 @@ export const metadata = {
   title: "DearDiary",
   description: "A Digital Diary for the future",
   icons: {
-    icon: "../../public/favicon/favicon.ico",
-    apple: "../../public/apple-touch-icon.png",
-    shortcut: "../../public/apple-touch-icon.png"
+    icon: "./public/favicon.ico",
+    apple: "./public/apple-touch-icon.png",
+    shortcut: "./public/apple-touch-icon.png"
   }
 }
 
